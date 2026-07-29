@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Nihal 👋
 
-<!--
-**NihalPulikkal/NihalPulikkal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3rd-year Computer Science student, currently exploring different areas of CS to figure out where I want to specialize.
 
-Here are some ideas to get you started:
+**Currently**
+- Learning the fundamentals across web, ML, and systems before narrowing focus
+- Working through coursework projects and personal side-projects
+- Open to internships and collaborative projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Reach me**
+- Email: nihalpulikkal82@gmail.com
+
+---
+*This profile is a work in progress — more projects coming as I build them out.*
