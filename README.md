@@ -1,4 +1,6 @@
-# Hi, I'm Nihal 👋
+<img src="assets/banner.png" alt="Nihal Pulikkal — Computer Science Student" width="100%" />
+
+<br/>
 
 3rd-year Computer Science student, currently exploring different areas of CS to figure out where I want to specialize.
 
