@@ -2,17 +2,17 @@
 
 <br/>
 
-3rd-year B.E Computer Science & Engineering student, currently exploring different areas of CS to figure out where I want to specialize.
+👋 3rd-year B.E Computer Science & Engineering student — still exploring different corners of CS to find where I want to specialize.
 
-**Currently**
-- Learning the fundamentals across web, ML, and systems before narrowing focus
-- Working through coursework projects and personal side-projects
-- Open to internships and collaborative projects
+🚧 **Currently**
+- 🌱 Learning the fundamentals across web, ML, and systems before narrowing focus
+- 🛠️ Working through coursework projects and personal side-projects
+- 🤝 Open to internships and collaborative projects
 
-**Beyond code**
-Football, movies, animation, and music.
+⚽ **Beyond code**
+Football, movies, animation, and music keep me going when I'm not staring at a terminal.
 
-**Coding Profiles**
+💻 **Coding Profiles**
 
 <table>
 <tr>
@@ -41,8 +41,8 @@ Football, movies, animation, and music.
 </tr>
 </table>
 
-**Reach me**
-- Email: nihalpulikkal82@gmail.com
+📫 **Reach me**
+- ✉️ Email: nihalpulikkal82@gmail.com
 
 ---
-*This profile is a work in progress — more projects coming as I build them out.*
+*🚀 This profile is a work in progress — more projects coming as I build them out.*
