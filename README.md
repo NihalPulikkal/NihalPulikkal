@@ -9,6 +9,10 @@
 - Working through coursework projects and personal side-projects
 - Open to internships and collaborative projects
 
+**LeetCode**
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/vW9m6YIYh3?ext=heatmap&theme=dark&font=Inter&palette=14261e,c9a227,f5f0e6,1f3d2f)](https://leetcode.com/u/vW9m6YIYh3/)
+
 **Reach me**
 - Email: nihalpulikkal82@gmail.com
 
