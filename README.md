@@ -20,7 +20,7 @@ Football, movies, animation, and music keep me going when I'm not staring at a t
 <a href="https://leetcode.com/u/vW9m6YIYh3/"><img src="https://leetcard.jacoblin.cool/vW9m6YIYh3?ext=heatmap&theme=dark&font=IBM+Plex+Sans&palette=0d1117,0f4c81,e6edf3,0d1117" width="100%"/></a>
 </td>
 <td align="center" width="50%">
-<a href="https://www.codechef.com/users/nihalpulikkal"><img src="https://codechef-stats.tashif.codes/nihalpulikkal/stats/svg?theme=dark" width="100%"/></a>
+<a href="https://www.codechef.com/users/nihalpulikkal"><img src="https://codechef-stats.tashif.codes/nihalpulikkal/stats/svg?theme=dark&exclude=cakewalk,raysh07_adm,nishank_adm,start249,start248" width="100%"/></a>
 </td>
 </tr>
 <tr>
